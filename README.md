@@ -25,6 +25,8 @@ I'm Sankavi, Learning MERN Stack web development with full of enthusiasm <img sr
 - 💬 Ask me about self-help fitness and coding
 
 - 📫 How to reach me: ssangavi14@gmail.com
+
+- 🌐 Portfolio - https://sankavis-portfolio.netlify.app/
   
 
 ## ⚡ Things I code with
