@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my Portfolio!
 
-I'm Sankavi, Learning MERN Stack web development with full of enthusiasm <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
+I'm Sankavi, Completed MERN Stack web development with full of enthusiasm.
 
 
 - 🔭 I’m currently working on Creating projects 
  
 - 🌱 I’m currently learning MERN Stack Web Development
   
-- 👯 I’m looking to get a job as Full Stack Web Developer
+- 👯 I’m looking to get a job as Fornt-end Web Developer
 
 - 🤔 I’m looking for help with learning new Technologies
 
